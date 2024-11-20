@@ -1,0 +1,24 @@
+table, th, td {
+  width: 800px;
+  border: none;
+  border-collapse: collapse;
+  padding: 20px;
+}
+
+th {
+  text-align: start;
+  color: #fff;
+  background-color: rgb(29, 124, 69);
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.color-1 {
+  background-color: rgb(247, 246, 246);
+}
+
+.color-2 {
+  background-color: gainsboro;
+}
